@@ -13,8 +13,8 @@
       "pub": " - - - - -",
       "date": "2008",
       "num": "Ar 150-08",
-      "categories": ["all", "Ar", "100"],
-      "libraries": ["all", "Tah"]
+      "categories": ["All", "Ar", "100"],
+      "libraries": ["All", "Tah"]
     },
     {
       "id": "Tah",
@@ -30,8 +30,8 @@
       "pub": " - - - - -",
       "date": "2006",
       "num": "Ar 150-09",
-      "categories": ["all", "Ar", "100"],
-      "libraries": ["all", "Tah"]
+      "categories": ["All", "Ar", "100"],
+      "libraries": ["All", "Tah"]
     },
     {
       "id": "Tah",
@@ -47,8 +47,8 @@
       "pub": " - - - - -",
       "date": "2005",
       "num": "Ar 150-10",
-      "categories": ["all", "Ar", "100"],
-      "libraries": ["all", "Tah"]
+      "categories": ["All", "Ar", "100"],
+      "libraries": ["All", "Tah"]
     },
     {
       "id": "Tah",
@@ -64,8 +64,8 @@
       "pub": " - - - - -",
       "date": "2007",
       "num": "Ar 150-11",
-      "categories": ["all", "Ar", "100"],
-      "libraries": ["all", "Tah"]
+      "categories": ["All", "Ar", "100"],
+      "libraries": ["All", "Tah"]
     },
     {
       "id": "Tah",
@@ -81,8 +81,8 @@
       "pub": " - - - - -",
       "date": "2009",
       "num": "Ar 150-12",
-      "categories": ["all", "Ar", "100"],
-      "libraries": ["all", "Tah"]
+      "categories": ["All", "Ar", "100"],
+      "libraries": ["All", "Tah"]
     },
     {
       "id": "Tah",
@@ -98,8 +98,8 @@
       "pub": " - - - - -",
       "date": "2002",
       "num": "Ar 150-13",
-      "categories": ["all", "Ar", "100"],
-      "libraries": ["all", "Tah"]
+      "categories": ["All", "Ar", "100"],
+      "libraries": ["All", "Tah"]
     },
     {
       "id": "Tah",
@@ -115,8 +115,8 @@
       "pub": " - - - - -",
       "date": "2008",
       "num": "Ar 150-14",
-      "categories": ["all", "Ar", "100"],
-      "libraries": ["all", "Tah"]
+      "categories": ["All", "Ar", "100"],
+      "libraries": ["All", "Tah"]
     },
     {
       "id": "Tah",
@@ -132,8 +132,8 @@
       "pub": " - - - - -",
       "date": " - - - - -",
       "num": "Ar 150-15",
-      "categories": ["all", "Ar", "100"],
-      "libraries": ["all", "Tah"]
+      "categories": ["All", "Ar", "100"],
+      "libraries": ["All", "Tah"]
     },
     {
       "id": "Tah",
@@ -149,8 +149,8 @@
       "pub": " - - - - -",
       "date": "2008",
       "num": "Ar 150-16",
-      "categories": ["all", "Ar", "100"],
-      "libraries": ["all", "Tah"]
+      "categories": ["All", "Ar", "100"],
+      "libraries": ["All", "Tah"]
     },
     {
       "id": "Tah",
@@ -166,8 +166,8 @@
       "pub": " - - - - -",
       "date": "2007",
       "num": "Ar 150-17",
-      "categories": ["all", "Ar", "100"],
-      "libraries": ["all", "Tah"]
+      "categories": ["All", "Ar", "100"],
+      "libraries": ["All", "Tah"]
     },
     {
       "id": "Tah",
@@ -183,8 +183,8 @@
       "pub": " - - - - -",
       "date": "2008",
       "num": "Ar 150-18",
-      "categories": ["all", "Ar", "100"],
-      "libraries": ["all", "Tah"]
+      "categories": ["All", "Ar", "100"],
+      "libraries": ["All", "Tah"]
     },
     {
       "id": "Tah",
@@ -200,8 +200,8 @@
       "pub": " - - - - -",
       "date": "2009",
       "num": "Ar 150-19",
-      "categories": ["all", "Ar", "100"],
-      "libraries": ["all", "Tah"]
+      "categories": ["All", "Ar", "100"],
+      "libraries": ["All", "Tah"]
     },
     {
       "id": "Tah",
@@ -217,8 +217,8 @@
       "pub": " - - - - -",
       "date": " - - - - -",
       "num": "Ar 150-20",
-      "categories": ["all", "Ar", "100"],
-      "libraries": ["all", "Tah"]
+      "categories": ["All", "Ar", "100"],
+      "libraries": ["All", "Tah"]
     },
     {
       "id": "Tah",
@@ -234,7 +234,7 @@
       "pub": " - - - - -",
       "date": "2007",
       "num": "Ar 150-21",
-      "categories": ["all", "Ar", "100"],
-      "libraries": ["all", "Tah"]
+      "categories": ["All", "Ar", "100"],
+      "libraries": ["All", "Tah"]
     }
 ]
